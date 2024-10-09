@@ -120,5 +120,6 @@ a:has(img) {
 
     input {
         width: 100%;
+        border-radius: 50px;
     }
 }
