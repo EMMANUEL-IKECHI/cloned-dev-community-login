@@ -85,10 +85,12 @@ h1 {
     border: none;
     background-color: var(--clr-grey);
     padding: 15px 20px;
+    outline: none;
 }
 
 input[type="submit"] {
     padding: 15px;
+    outline: none;
     border: none;
     border-radius: 50px;
     background-color: var(--clr-green);
